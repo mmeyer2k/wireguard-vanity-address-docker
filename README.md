@@ -1,6 +1,6 @@
 # wireguard-vanity-address-docker
 
-A docker image for creating WierGuard vanity addresses with the wierguard-vanity-address utility.
+A docker image for creating WireGuard vanity addresses with the wierguard-vanity-address utility.
 
 ## Usage Examples
 
