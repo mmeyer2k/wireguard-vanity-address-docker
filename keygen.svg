@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 872 393" width="872" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="109" rows="23"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 19901ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+7.331%{transform:translateY(-408px)}
+13.627%{transform:translateY(-816px)}
+15.668%{transform:translateY(-1224px)}
+15.693%{transform:translateY(-1632px)}
+19.316%{transform:translateY(-2040px)}
+49.837%{transform:translateY(-2448px)}
+50.706%{transform:translateY(-2856px)}
+52.585%{transform:translateY(-3264px)}
+62.253%{transform:translateY(-3672px)}
+80.599%{transform:translateY(-4080px)}
+83.172%{transform:translateY(-4488px)}
+84.770%{transform:translateY(-4896px)}
+94.975%{transform:translateY(-5304px)}
+100.000%{transform:translateY(-5304px)}
+            }
+
+            #screen_view {
+                animation-duration: 19901ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="872" height="391" viewBox="0 0 872 391" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="96" font-weight="bold" class="color10">mike@xubuntu</text><text x="96" textLength="8" class="foreground">:</text><text x="104" textLength="72" font-weight="bold" class="color12">~/Desktop</text><text x="176" textLength="16" class="foreground">$ </text><text x="192" textLength="8" class="background"> </text></g><g id="g2"><text x="0" textLength="96" font-weight="bold" class="color10">mike@xubuntu</text><text x="96" textLength="8" class="foreground">:</text><text x="104" textLength="72" font-weight="bold" class="color12">~/Desktop</text><text x="176" textLength="472" class="foreground">$ docker run --rm -ti mmeyer2k/wireguard-vanity --in 4 abcd</text><text x="648" textLength="8" class="background"> </text></g><g id="g3"><text x="0" textLength="96" font-weight="bold" class="color10">mike@xubuntu</text><text x="96" textLength="8" class="foreground">:</text><text x="104" textLength="72" font-weight="bold" class="color12">~/Desktop</text><text x="176" textLength="472" class="foreground">$ docker run --rm -ti mmeyer2k/wireguard-vanity --in 4 abcd</text></g><g id="g4"><text x="0" textLength="8" class="background"> </text></g><g id="g5"><text x="0" textLength="608" class="foreground">searching for 'abcd' in pubkey[0..4], one of every 1048576 keys should match</text></g><g id="g6"><text x="0" textLength="376" class="foreground">one trial takes 28.4 us, CPU cores available: 6</text></g><g id="g7"><text x="0" textLength="384" class="foreground">est yield: 5.0 seconds per key, 201.84e-3 keys/s</text></g><g id="g8"><text x="0" textLength="144" class="foreground">hit Ctrl-C to stop</text></g><g id="g9"><text x="0" textLength="840" class="foreground">private uD5Rv/VK0ONVp2Fypt7SGDcNWsNCt9FuR9KBnC17bnw=  public abCdZ5fgqeWp27PiH7l3/nE791PYRFx4BZWW5r70Bzo=</text></g><g id="g10"><text x="0" textLength="840" class="foreground">private KL/L0QNAEhvd4XkJKiLe9BlZbkBYN+DzUpacUY+qr1g=  public aBCDSt+RXfl8q+jXXPFxJBXs0UYJ+aSEKT41s2bzyho=</text></g><g id="g11"><text x="0" textLength="840" class="foreground">private UALwVoEJGZBLzzhCj36MqIGHHhjCSqF2dEtH8ccAp38=  public abCD/Hk4Ua3nLjp1EauBPf6FoOJRp+wZ+uyrt5+0BEw=</text></g><g id="g12"><text x="0" textLength="840" class="foreground">private GNM7eoaPnT5ASLTrBsW/TEj548iGszG5WLbaSjad8mk=  public abcDsI2/i8RgvPrf36LtAK0csiaFjYDHosI97Se52Vo=</text></g><g id="g13"><text x="0" textLength="840" class="foreground">private sIwPBBlLGw0zh5uRiYXhS36rT+HIQEIEUQ1+y7ktQmI=  public ABcd0AI9ZevGZhg9jwsO9KChXqWjTog47aTR55+pGEc=</text></g><g id="g14"><text x="0" textLength="840" class="foreground">private APSOKOBzn/RgiOCd0wZGbTyIv3Qk4IxEK7iHegRNuEQ=  public AbCdIUQnqCcK14Lnb7LLdPcMiaJKmkoPsjxJ4ncs0Ug=</text></g><g id="g15"><text x="0" textLength="16" class="foreground">^C</text><text x="16" textLength="8" class="background"> </text></g><g id="g16"><text x="0" textLength="16" class="foreground">^C</text><text x="16" textLength="96" font-weight="bold" class="color10">mike@xubuntu</text><text x="112" textLength="8" class="foreground">:</text><text x="120" textLength="72" font-weight="bold" class="color12">~/Desktop</text><text x="192" textLength="16" class="foreground">$ </text><text x="208" textLength="8" class="background"> </text></g><g id="g17"><text x="0" textLength="16" class="foreground">^C</text><text x="16" textLength="96" font-weight="bold" class="color10">mike@xubuntu</text><text x="112" textLength="8" class="foreground">:</text><text x="120" textLength="72" font-weight="bold" class="color12">~/Desktop</text><text x="192" textLength="48" class="foreground">$ exit</text></g></defs><g id="screen_view"><g><rect x="192" y="0" width="8" height="17" class="foreground"/><use xlink:href="#g1" y="0"/></g><g><rect x="648" y="408" width="8" height="17" class="foreground"/><use xlink:href="#g2" y="408"/></g><g><use xlink:href="#g3" y="816"/><rect x="0" y="833" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="833"/></g><g><use xlink:href="#g3" y="1224"/><use xlink:href="#g5" y="1241"/><rect x="0" y="1258" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="1258"/></g><g><use xlink:href="#g3" y="1632"/><use xlink:href="#g5" y="1649"/><use xlink:href="#g6" y="1666"/><use xlink:href="#g7" y="1683"/><use xlink:href="#g8" y="1700"/><rect x="0" y="1717" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="1717"/></g><g><use xlink:href="#g3" y="2040"/><use xlink:href="#g5" y="2057"/><use xlink:href="#g6" y="2074"/><use xlink:href="#g7" y="2091"/><use xlink:href="#g8" y="2108"/><use xlink:href="#g9" y="2125"/><rect x="0" y="2142" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="2142"/></g><g><use xlink:href="#g3" y="2448"/><use xlink:href="#g5" y="2465"/><use xlink:href="#g6" y="2482"/><use xlink:href="#g7" y="2499"/><use xlink:href="#g8" y="2516"/><use xlink:href="#g9" y="2533"/><use xlink:href="#g10" y="2550"/><rect x="0" y="2567" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="2567"/></g><g><use xlink:href="#g3" y="2856"/><use xlink:href="#g5" y="2873"/><use xlink:href="#g6" y="2890"/><use xlink:href="#g7" y="2907"/><use xlink:href="#g8" y="2924"/><use xlink:href="#g9" y="2941"/><use xlink:href="#g10" y="2958"/><use xlink:href="#g11" y="2975"/><rect x="0" y="2992" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="2992"/></g><g><use xlink:href="#g3" y="3264"/><use xlink:href="#g5" y="3281"/><use xlink:href="#g6" y="3298"/><use xlink:href="#g7" y="3315"/><use xlink:href="#g8" y="3332"/><use xlink:href="#g9" y="3349"/><use xlink:href="#g10" y="3366"/><use xlink:href="#g11" y="3383"/><use xlink:href="#g12" y="3400"/><rect x="0" y="3417" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="3417"/></g><g><use xlink:href="#g3" y="3672"/><use xlink:href="#g5" y="3689"/><use xlink:href="#g6" y="3706"/><use xlink:href="#g7" y="3723"/><use xlink:href="#g8" y="3740"/><use xlink:href="#g9" y="3757"/><use xlink:href="#g10" y="3774"/><use xlink:href="#g11" y="3791"/><use xlink:href="#g12" y="3808"/><use xlink:href="#g13" y="3825"/><rect x="0" y="3842" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="3842"/></g><g><use xlink:href="#g3" y="4080"/><use xlink:href="#g5" y="4097"/><use xlink:href="#g6" y="4114"/><use xlink:href="#g7" y="4131"/><use xlink:href="#g8" y="4148"/><use xlink:href="#g9" y="4165"/><use xlink:href="#g10" y="4182"/><use xlink:href="#g11" y="4199"/><use xlink:href="#g12" y="4216"/><use xlink:href="#g13" y="4233"/><use xlink:href="#g14" y="4250"/><rect x="0" y="4267" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="4267"/></g><g><use xlink:href="#g3" y="4488"/><use xlink:href="#g5" y="4505"/><use xlink:href="#g6" y="4522"/><use xlink:href="#g7" y="4539"/><use xlink:href="#g8" y="4556"/><use xlink:href="#g9" y="4573"/><use xlink:href="#g10" y="4590"/><use xlink:href="#g11" y="4607"/><use xlink:href="#g12" y="4624"/><use xlink:href="#g13" y="4641"/><use xlink:href="#g14" y="4658"/><rect x="16" y="4675" width="8" height="17" class="foreground"/><use xlink:href="#g15" y="4675"/></g><g><use xlink:href="#g3" y="4896"/><use xlink:href="#g5" y="4913"/><use xlink:href="#g6" y="4930"/><use xlink:href="#g7" y="4947"/><use xlink:href="#g8" y="4964"/><use xlink:href="#g9" y="4981"/><use xlink:href="#g10" y="4998"/><use xlink:href="#g11" y="5015"/><use xlink:href="#g12" y="5032"/><use xlink:href="#g13" y="5049"/><use xlink:href="#g14" y="5066"/><rect x="208" y="5083" width="8" height="17" class="foreground"/><use xlink:href="#g16" y="5083"/></g><g><use xlink:href="#g3" y="5304"/><use xlink:href="#g5" y="5321"/><use xlink:href="#g6" y="5338"/><use xlink:href="#g7" y="5355"/><use xlink:href="#g8" y="5372"/><use xlink:href="#g9" y="5389"/><use xlink:href="#g10" y="5406"/><use xlink:href="#g11" y="5423"/><use xlink:href="#g12" y="5440"/><use xlink:href="#g13" y="5457"/><use xlink:href="#g14" y="5474"/><use xlink:href="#g17" y="5491"/><rect x="0" y="5508" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="5508"/></g></g></svg>
+</svg>
